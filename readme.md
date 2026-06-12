@@ -218,17 +218,6 @@ Contributions, suggestions, and feature requests are welcome.
 ## 👨‍💻 Author
 
 **Mayuresh Parbat**
-
-BCA Graduate • MCA Student • Future Data Analyst & Software Developer
-
-GitHub: https://github.com/Mayuresh-Parbat
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
 ---
 
 # "Success is not built in a day. It is built daily."
