@@ -170,7 +170,7 @@ GoalGrid helps users:
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### Clone Repository
 
@@ -196,7 +196,7 @@ npm run dev
 
 ---
 
-## 📊 Development Status
+##  Development Status
 
 🚧 Currently Under Development
 
@@ -204,7 +204,7 @@ The project is actively being built with planned releases introducing advanced p
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, suggestions, and feature requests are welcome.
 
@@ -215,8 +215,7 @@ Contributions, suggestions, and feature requests are welcome.
 
 ---
 
-## 👨‍💻 Author
-
+## Author
 **Mayuresh Parbat**
 ---
 
