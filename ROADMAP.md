@@ -1,23 +1,27 @@
 # GoalGrid Roadmap
 
-## Version 1
-- User Registration
-- User Login
-- Create Goals
-- Edit Goals
-- Delete Goals
+## Phase 1
 
-## Version 2
-- Progress Tracking
-- Goal Categories
+- Authentication
 - Dashboard
+- Goal CRUD
 
-## Version 3
-- AI Goal Suggestions
-- Habit Tracking
-- Notifications
+## Phase 2
 
-## Version 4
-- Mobile App
+- Habits
+- Streaks
+- Calendar
+
+## Phase 3
+
+- AI Suggestions
+- Smart Analytics
+
+## Phase 4
+
+- Collaboration
 - Team Goals
-- Analytics
+
+## Phase 5
+
+- Mobile App
